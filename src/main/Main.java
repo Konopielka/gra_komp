@@ -9,7 +9,7 @@ public class Main {
 
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
-        window.setTitle("przygoda");
+        window.setTitle("Focza Przygoda - w pogoni za piccą");
 
         GamePanel gamePanel = new GamePanel();
         window.add(gamePanel);
