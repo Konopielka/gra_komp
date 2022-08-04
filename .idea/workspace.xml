@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="21b30efe-ff4c-45e6-9ffc-c376856fa0b5" name="Changes" comment="foka png added">
+    <list default="true" id="21b30efe-ff4c-45e6-9ffc-c376856fa0b5" name="Changes" comment="moving foka png added">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/entity/Entity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Entity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/entity/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/entity/Player.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/GamePanel.java" afterDir="false" />
     </list>
@@ -92,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1659542170571</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="moving foka png added">
+      <created>1659542999545</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1659542999545</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +116,8 @@
     <MESSAGE value="displayWindow" />
     <MESSAGE value="rectangle is moving" />
     <MESSAGE value="foka png added" />
-    <option name="LAST_COMMIT_MESSAGE" value="foka png added" />
+    <MESSAGE value="moving foka png added" />
+    <option name="LAST_COMMIT_MESSAGE" value="moving foka png added" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
